@@ -1,2 +1,4 @@
 .DS_Store
-connection.php
+public_html/connection.php
+public_html/_conneciton.php
+
